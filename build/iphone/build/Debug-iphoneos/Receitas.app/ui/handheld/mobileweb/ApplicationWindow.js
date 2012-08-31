@@ -1,0 +1,1 @@
+/Users/adrianodias/Documents/Titanium Studio Workspace/Receitas/Resources/ui/handheld/mobileweb/ApplicationWindow.js
